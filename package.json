@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "date-fns": "^2.21.1",
     "gray-matter": "^4.0.3",
     "markdown-to-jsx": "^7.1.2",
     "remark": "^13.0.0",
